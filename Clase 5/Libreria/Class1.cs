@@ -8,6 +8,7 @@ namespace Libreria
 {
     public class Banco
     {
+        
         private int _sucursal;
         private string _direccion;
         private int _altura;
