@@ -1,0 +1,4 @@
+C:\xampp\htdocs\Lab31309\Clase 5\Libreria\bin\Debug\Libreria.dll
+C:\xampp\htdocs\Lab31309\Clase 5\Libreria\bin\Debug\Libreria.pdb
+C:\xampp\htdocs\Lab31309\Clase 5\Libreria\obj\Debug\Libreria.dll
+C:\xampp\htdocs\Lab31309\Clase 5\Libreria\obj\Debug\Libreria.pdb

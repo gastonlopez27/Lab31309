@@ -1,0 +1,11 @@
+C:\xampp\htdocs\Lab31309\Clase 5\Clase 5\bin\Debug\Clase 5.exe.config
+C:\xampp\htdocs\Lab31309\Clase 5\Clase 5\obj\Debug\Clase 5.csprojResolveAssemblyReference.cache
+C:\xampp\htdocs\Lab31309\Clase 5\Clase 5\obj\Debug\Clase_5.Form1.resources
+C:\xampp\htdocs\Lab31309\Clase 5\Clase 5\obj\Debug\Clase_5.Properties.Resources.resources
+C:\xampp\htdocs\Lab31309\Clase 5\Clase 5\obj\Debug\Clase 5.csproj.GenerateResource.Cache
+C:\xampp\htdocs\Lab31309\Clase 5\Clase 5\bin\Debug\Clase 5.exe
+C:\xampp\htdocs\Lab31309\Clase 5\Clase 5\bin\Debug\Clase 5.pdb
+C:\xampp\htdocs\Lab31309\Clase 5\Clase 5\bin\Debug\Libreria.dll
+C:\xampp\htdocs\Lab31309\Clase 5\Clase 5\bin\Debug\Libreria.pdb
+C:\xampp\htdocs\Lab31309\Clase 5\Clase 5\obj\Debug\Clase 5.exe
+C:\xampp\htdocs\Lab31309\Clase 5\Clase 5\obj\Debug\Clase 5.pdb
